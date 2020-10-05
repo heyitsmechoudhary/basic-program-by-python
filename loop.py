@@ -9,3 +9,6 @@ a=float(input("enter 1st number"))
 b=float(input("enter 2nd number"))
 c=float(input("enter 3rd number"))
 print(max_num(a,b,c))
+
+#OR
+ print(max(a,b,c))  # in one line
